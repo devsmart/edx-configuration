@@ -15,7 +15,7 @@ prettytable==0.7.2
 awscli==1.10.28
 requests==2.9.1
 datadog==0.8.0
-networkx==1.11
+networkx==2.6
 pathlib2==2.1.0
 
 # Needed for the mongo_* modules (playbooks/library/mongo_*)
